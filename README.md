@@ -2,10 +2,10 @@
 Repositorio para a disciplina de Projetos 1 do Mackenzie 2024
 
 Integrantes do Grupo:
-1-Antonio Henrique Caldas Mello | 10433799
-2-Jonatas Borges de Brito | 10433424
-3-Livya Kaizer de Albuquerque | 10433409
-4-Mariana Mayume Caniza | 10290174
+1-Antonio Henrique Caldas Mello | 10433799 <br>
+2-Jonatas Borges de Brito | 10433424 <br>
+3-Livya Kaizer de Albuquerque | 10433409 <br>
+4-Mariana Mayume Caniza | 10290174 <br>
 
 #Objetivos
 
