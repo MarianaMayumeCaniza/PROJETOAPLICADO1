@@ -1,7 +1,7 @@
 # PROJETOAPLICADO1
 Repositorio para a disciplina de Projetos 1 do Mackenzie 2024
 
-Integrantes do Grupo:
+Integrantes do Grupo: <br>
 1-Antonio Henrique Caldas Mello | 10433799 <br>
 2-Jonatas Borges de Brito | 10433424 <br>
 3-Livya Kaizer de Albuquerque | 10433409 <br>
